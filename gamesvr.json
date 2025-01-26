@@ -1,20 +1,8 @@
 [
     {
-        "name": "Game One",
-        "downloadLink": "https://example.com/download/game-one",
-        "description": "An exciting adventure game.",
-        "addedBy": "John Doe"
-    },
-    {
-        "name": "Game Two",
-        "downloadLink": "https://example.com/download/game-two",
-        "description": "A thrilling racing game.",
-        "addedBy": "Jane Smith"
-    },
-    {
-        "name": "Game Three",
-        "downloadLink": "https://example.com/download/game-three",
-        "description": "A fun puzzle game.",
-        "addedBy": "Alice Johnson"
+        "name": "Test",
+        "downloadLink": "https://example.com/",
+        "description": "working",
+        "addedBy": "Glitched Da Kitty Cat"
     }
 ]
