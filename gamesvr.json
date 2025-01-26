@@ -10,5 +10,9 @@
     {
         "name": "Test Three",
         "downloadLink": "https://example.com/download/game-three"
+    },
+    {
+        "name": "Test Four",
+        "downloadLink": "https://example.com/download/game-four"
     }
 ]
