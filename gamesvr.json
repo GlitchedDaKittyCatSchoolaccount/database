@@ -1,18 +1,20 @@
 [
     {
-        "name": "Test 1",
-        "downloadLink": "https://example.com/download/game-one"
+        "name": "Game One",
+        "downloadLink": "https://example.com/download/game-one",
+        "description": "An exciting adventure game.",
+        "addedBy": "John Doe"
     },
     {
-        "name": "Test Two",
-        "downloadLink": "https://example.com/download/game-two"
+        "name": "Game Two",
+        "downloadLink": "https://example.com/download/game-two",
+        "description": "A thrilling racing game.",
+        "addedBy": "Jane Smith"
     },
     {
-        "name": "Test Three",
-        "downloadLink": "https://example.com/download/game-three"
-    },
-    {
-        "name": "Test Four",
-        "downloadLink": "https://example.com/download/game-four"
+        "name": "Game Three",
+        "downloadLink": "https://example.com/download/game-three",
+        "description": "A fun puzzle game.",
+        "addedBy": "Alice Johnson"
     }
 ]
