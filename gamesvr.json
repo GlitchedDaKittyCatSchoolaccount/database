@@ -11,7 +11,7 @@
     {
         "name": "Rookie Sideloader",
         "downloadLink": "https://github.com/VRPirates/rookie/releases",
-        "description": "Check out There <a href='https://discord.com/invite/DcfEpwVa4a' target='_blank'>Discord</a> And There <a href='https://vrpirates.wiki/' target='_blank'>Wiki</a> For Information",
+        "description": "Check out There <a class='link' href='https://discord.com/invite/DcfEpwVa4a' target='_blank'>Discord</a> And There <a class='link' href='https://vrpirates.wiki/' target='_blank'>Wiki</a> For Information",
         "addedBy": "Glitched Da Kitty Cat",
         "updatedBy": "Glitched Da Kitty Cat",
         "lastupdated": "Feb 22 2025",
