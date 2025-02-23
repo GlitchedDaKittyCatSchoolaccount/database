@@ -1,18 +1,20 @@
 [
     {
-        "name": "Flud [ Moblie/Quest ]",
+        "name": "Flud",
         "downloadLink": "https://flud-torrent-downloader.en.softonic.com/android/",
         "description": "This is an easy way to download games using magnetic links Please ask a free vr game team member for help with this",
         "addedBy": "Glitched Da Kitty Cat",
         "updatedBy": "Glitched Da Kitty Cat",
-        "lastupdated": "Jan 26 2025"
+        "lastupdated": "Jan 26 2025",
+        "Tags": "Moblie, Quest"
     },
     {
-        "name": "Rookie Sideloader [ PC ]",
+        "name": "Rookie Sideloader",
         "downloadLink": "https://github.com/VRPirates/rookie/releases",
         "description": "Check out There <a href='https://discord.com/invite/DcfEpwVa4a' target='_blank'>Discord</a> And There <a href='https://vrpirates.wiki/' target='_blank'>Wiki</a> For Information",
         "addedBy": "Glitched Da Kitty Cat",
         "updatedBy": "Glitched Da Kitty Cat",
-        "lastupdated": "Feb 22 2025"
+        "lastupdated": "Feb 22 2025",
+        "Tags": "PC"
     }
 ]
