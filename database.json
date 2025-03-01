@@ -16,8 +16,8 @@
         "updatedBy": "Glitched Da Kitty Cat",
         "lastupdated": "Feb 22 2025",
         "Tags": "PC"
-    }, 
- {
+    },
+    {
         "name": "Minecraft",
         "downloadLink": "https://glitched-da-kitty-cat.is-a.dev/gobal_assets/downloads/LegacyLauncher_Installer_legacy",
         "description": "Just Minecraft",
@@ -44,7 +44,7 @@
         "lastupdated": "Feb 28 2025",
         "Tags": "quest"
     },
-        {
+    {
         "name": "Bonelab",
         "downloadLink": "https://drive.google.com/file/d/1bjQN1zEZPs_dQq0GTa2DxgmfBcBw7kEC/view?usp=sharing",
         "description": "BONELAB is an experimental physics action game. Explore a mysterious lab filled with weapons, enemies, challenges and secrets. Escape your reality, or wreak havoc. No wrong answers.",
@@ -52,5 +52,5 @@
         "updatedBy": "Glitched Da Kitty cat",
         "lastupdated": "Feb 29 2025",
         "Tags": "quest"
-    },
+    }
 ]
